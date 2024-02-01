@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    font-weight: bolder;
+}
+
+.header{
+    background-color:rgb(218, 252, 255);
+}
+
+
+
+li{
+    display: inline-block;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    padding-left: 40px;
+    
+}
+
+li:hover{
+    color:rgb(53, 47, 47);
+}
+
+h1{
+    display: inline;
+    padding-left: 20px;
+    
+}
+
+ul{
+    display: inline-block;
+    margin-left: 50%;
+    
+}
+
+hr {
+    border-width: 1px;
+    border:none;
+    height: 20px;
+      width: 100%;
+      height: 50px;
+      margin-top: 0;
+      border-bottom: 1px solid #0f0f0f;
+      box-shadow: 0 10px 10px -10px #161616;
+    margin: -50px auto 10px; 
+   
+  }
+
+.line1{
+    font-weight: bolder;
+    padding-left: 80px;
+    padding-top: 20px;
+}
+
+.line2{
+    font-weight: bolder;
+    font-size: 50px;
+    padding-left: 80px;
+    padding-top: 40px;
+}
+
+.line3{
+    padding-left: 80px;
+    margin: 0;
+    padding-top: 20px;
+}
+
+button{
+    border: solid black 2px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+    font-weight: 100;
+}
+
+.line4{
+    padding-left: 80px;
+    margin: 0;
+    padding-top: 20px;
+    color: rgb(109, 109, 109);
+}
+
+.image1{
+    display: inline;
+    display: flex;
+    flex-wrap: nowrap;
+    float: right;
+    width: 225px;
+    height: 220px;
+    padding-top: 20px;
+    padding-right: 10%;
+    border: white 5px;
+}
+
+.line5{
+    text-align: center;
+}
+
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box{
+    border: solid black 1px;
+    display: inline-block;
+    width: 225px;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+}
+
+i{
+    font-size: 40px;
+}
+
+.line6{
+    text-align: center;
+    padding: 20px 20px;
+}
+
+.webproducts{
+    background-color: rgb(210, 251, 255);
+}
+
+.naturalplants{
+    display: inline;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.img1{
+   position: relative;
+   bottom: 20px;
+   transition-duration: 2s;
+}
+
+.img1:hover{
+    transform: scale(1.1);
+}
+
+.img2{
+    position: relative;
+    top: 20px;
+    transition-duration: 2s;
+}
+
+.img2:hover{
+    transform: scale(1.1);
+}    
+
+.p1{
+    padding-top: 30px;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-weight: bold;
+}
+
+.title1{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.seller{
+    display: flex;
+    justify-content: space-between;
+}
+
+.i{
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: bold;
+    transition-duration: 2s;
+}
+
+.i:hover{
+    transform: scale(1.1);
+}
+
+.happy{
+    padding-top: 100px;
+}
+
+.img5{
+    background-color: rgb(210, 251, 255);
+    float: left;
+    position: relative;
+    bottom: 20px;
+    text-align: left;
+    
+}
+
+.line8{
+    font-weight: bolder;
+}
+
+.line7{
+    font-weight: bold;
+    background-color: rgb(210, 251, 255);
+    padding-top: 90px;
+    padding-bottom: 100px;
+    padding-left: 60px;
+    padding-right: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+ 
+.line9{
+    padding-left: 15px;
+}
+
+.webnews{
+    font-weight: bold;
+    padding-top: 20px;
+    text-align: center;
+}
+
+input{
+    width: 90%;
+    height: 30px;
+}
+
+.b2{
+    color: white;
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+.footer{
+    background-color: rgb(210, 251, 255);
+    padding-top:5%;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.line10{
+    padding-left: 20px;
+}
+
+.line12{
+    padding-left: 40px;
+}
+
+
+.line11{
+    color: gray;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+
